@@ -40,6 +40,5 @@
 
 ### Popular repositories
 
-- **[Repo Name](repository_link_here)**: [You can add a short description of the repository here.]
-- **[Another Repo](repository_link_here)**: [Another short description.]
-
+- **[alx-low_level_programming](https://github.com/Nathanage3/alx-low_level_programming.git)**: This repository contains my work as I learn low-level programming and algorithm development, primarily using C
+- **[alx-higher_level_programming](https://github.com/Nathanage3/alx-higher_level_programming.git)**: A collection of my Python scripts, exploring data structures, algorithms, and real-world problem-solving.
