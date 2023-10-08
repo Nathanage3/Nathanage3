@@ -6,7 +6,7 @@
 ![Programming](https://github.com/Nathanage3/Nathanage3/assets/118963179/83141999-cb7b-40be-acf4-a9e4d3d11be6)
 
 🌱 **I’m currently learning**:
-
+<br />
 ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -18,7 +18,8 @@
 - Devops
 - Mobile App Development
 
-💬 **Ask me about**: 
+💬 **Ask me about**:
+<br />
 ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,13 +32,15 @@
 ⚡ **Technology Stack**:
 - **Languages & Framework**:
 
-- **IDEs I Use**: VS Code, PyCharm, Replit, Online compilers
+- **IDEs I Use**:
+- <br />
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-3776AB?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-17CDBB?style=for-the-badge&logo=codeblocks&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-0D101E?style=for-the-badge&logo=replit&logoColor=white)
 
 **Operating System:**
+<br />
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
