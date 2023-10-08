@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Sisay Alemayehu Hailu!
 
+![Programming](https://github.com/Nathanage3/Nathanage3/assets/118963179/5647d19a-dc98-4700-8538-1b07c1c9fd4b)
+
+
+
 🚀 **A passionate software engineering student** at ALX Africa from Ethiopia.
 
 ---
