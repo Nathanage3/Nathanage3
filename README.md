@@ -60,7 +60,22 @@
 
 📃 **Github Stats**:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathanage3)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanage3&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff)
+
+![Nathanage3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nathanage3&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nathanage3&theme=react-dark)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nathanage3&theme=dark)
+
+
+
+
+
+
+
+
+
 
 ### Popular repositories
 
