@@ -5,9 +5,10 @@
 ---
 ![Programming](https://github.com/Nathanage3/Nathanage3/assets/118963179/83141999-cb7b-40be-acf4-a9e4d3d11be6)
 
-🌱 **I’m currently learning**: 
-- <img align="left" alt="C" width="26px" src="URL_FOR_C_LOGO" />
-- <img align="left" alt="Python" width="26px" src="URL_FOR_PYTHON_LOGO" />
+🌱 **I’m currently learning**:
+
+<img align="left" alt="C" width="26px" src="assets/c_logo.png" />
+<img align="left" alt="Python" width="26px" src="assets/python_logo.png" />
 
 👯 **I’m looking to collaborate on**: 
 - Web Development
