@@ -33,7 +33,7 @@
 - **Languages & Framework**:
 
 - **IDEs I Use**:
-- <br />
+ <br />
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-3776AB?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-17CDBB?style=for-the-badge&logo=codeblocks&logoColor=white)
@@ -53,3 +53,6 @@
 
 - **[alx-low_level_programming](https://github.com/Nathanage3/alx-low_level_programming.git)**: This repository contains my work as I learn low-level programming and algorithm development, primarily using C
 - **[alx-higher_level_programming](https://github.com/Nathanage3/alx-higher_level_programming.git)**: A collection of my Python scripts, exploring data structures, algorithms, and real-world problem-solving.
+- **[printf](https://github.com/Nathanage3/printf.git)**: This repository houses a team project where we developed our own version of the _printf function. Our implementation closely mirrors the functionality of the standard printf function found in the C language.
+- **[simple_shell](https://github.com/Nathanage3/simple_shell.git)**: This repository contains a team project focused on the Simple Shell. We were tasked with creating our own customized simple_shell functions using the C programming language. Our implementation accepts and executes commands just as the standard Linux shell does.
+- **[monty](https://github.com/Nathanage3/monty.git)**: Repository dedicated to exploring core programming concepts, featuring implementations in languages like C and Python. From building custom functions mimicking standard libraries to diving deep into data structures like linked lists, this repo showcases my journey and contributions in software development. 
