@@ -72,10 +72,10 @@
 
 📃 **Github Stats**:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=:Nathanage3&layout=compact&theme=radical)](https://github.com/:Nathanage3)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Nathanage3&layout=compact&theme=radical)](https://github.com/Nathanage3)
 
 
-[![Git Commits](https://img.shields.io/github/commit-activity/m/:Nathanage3/:repo.svg?style=for-the-badge)](https://github.com/:Nathanage3/:repo/commits/main)
+[![Git Commits](https://img.shields.io/github/commit-activity/m/Nathanage3/:repo.svg?style=for-the-badge)](https://github.com/Nathanage3/:repo/commits/main)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanage3&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff)
