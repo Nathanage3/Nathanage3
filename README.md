@@ -72,7 +72,7 @@
 
 📃 **Github Stats**:
 
-[![Top Languages](https://img.shields.io/github/languages/top/:user/:repo.svg?style=for-the-badge)](https://github.com/:user/:repo)
+[![Top Languages](https://img.shields.io/github/languages/top/:Nathanage3/:repo.svg?style=for-the-badge)](https://github.com/:Nathanage3/:repo)
 
 [![Git Commits](https://img.shields.io/github/commit-activity/m/:user/:repo.svg?style=for-the-badge)](https://github.com/:user/:repo/commits/main)
 
