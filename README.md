@@ -35,6 +35,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 📫 **How to reach me**: 
@@ -70,6 +71,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 📃 **Github Stats**:
+
+[![Top Languages](https://img.shields.io/github/languages/top/:user/:repo.svg?style=for-the-badge)](https://github.com/:user/:repo)
+
+[![Git Commits](https://img.shields.io/github/commit-activity/m/:user/:repo.svg?style=for-the-badge)](https://github.com/:user/:repo/commits/main)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanage3&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff)
 
