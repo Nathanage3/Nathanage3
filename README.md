@@ -10,7 +10,7 @@
 ---
 ![Programming](https://github.com/Nathanage3/Nathanage3/assets/118963179/83141999-cb7b-40be-acf4-a9e4d3d11be6)
 
-🌱 **I have coding experience**:
+🌱 **I have coding experience in:**:
 <br />
 ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -109,9 +109,9 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nathanage3)
 <br />
 ### Popular repositories
+- **[alx-higher_level_programming](https://github.com/Nathanage3/alx-higher_level_programming.git)**: Embark on a journey into the realm of High-Level Programming with this dynamic repository. Immerse yourself in a collection of meticulously crafted Python and JavaScript functions, packages, and a symphony of technologies. Witness the orchestration of SQLAlchemy as it weaves through the creation of tables and orchestrates seamless database interactions. Explore the intricacies of classes, JSON files, APIs, Fabric, Flask, and beyond. Unleash the power of code and creativity – where innovation meets function in the High-Level Programming repository.
 - **[alx-system_engineering_devops](https://github.com/Nathanage3/alx-system_engineering_devops.git)**: Welcome to the Engineering DevOps repository – your go-to resource for automating tool and software installations using powerful Bash scripts. Elevate your development experience with our customizable scripts designed for installing Python 3, Nginx, Apache, Node.js, Fabric, Flask, Django, and more. Effortlessly streamline your workflow, and stay up-to-date with our regularly maintained and updated collection. Simplify your setup – dive into the world of seamless installations with Engineering DevOps!
 - **[alx-low_level_programming](https://github.com/Nathanage3/alx-low_level_programming.git)**: This repository contains my work as I learn low-level programming and algorithm development, primarily using C
-- **[alx-higher_level_programming](https://github.com/Nathanage3/alx-higher_level_programming.git)**: A collection of my Python scripts, exploring data structures, algorithms, and real-world problem-solving.
 - **[printf](https://github.com/Nathanage3/printf.git)**: This repository houses a team project where we developed our own version of the _printf function. Our implementation closely mirrors the functionality of the standard printf function found in the C language.
 - **[simple_shell](https://github.com/Nathanage3/simple_shell.git)**: This repository contains a team project focused on the Simple Shell. We were tasked with creating our own customized simple_shell functions using the C programming language. Our implementation accepts and executes commands just as the standard Linux shell does.
 - **[monty](https://github.com/Nathanage3/monty.git)**: Repository dedicated to exploring core programming concepts, featuring implementations in languages like C and Python. From building custom functions mimicking standard libraries to diving deep into data structures like linked lists, this repo showcases my journey and contributions in software development. 
