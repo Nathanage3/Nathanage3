@@ -1,12 +1,6 @@
 ### Hi there 👋, I'm Nathan Hailu!
 
-
-[![YOLO Badge](https://img.shields.io/badge/Achievement-YOLO-brightgreen)](https://Nathanage3.github.io)
-[![Quickdraw Badge](https://img.shields.io/badge/Achievement-Quickdraw-blue)](https://Nathanage3.github.io)
-[![Pull Shark Badge](https://img.shields.io/badge/Achievement-Pull%20Shark-orange)](https://Nathanage3.github.io)
-[![Starstruck Badge](https://img.shields.io/badge/Achievement-Starstruck-yellow)](https://Nathanage3.github.io)
-
-![YOLO Badge](https://path/to/yolo-badge.png)
+!Pull Shark Badge
 
 
 🚀 **A passionate software engineering student** at ALX Africa from Ethiopia.
