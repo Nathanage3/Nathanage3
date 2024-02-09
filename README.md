@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Nathan Hailu!
 
-!Pull Shark Badge
+![Pull Shark Badge](https://img.shields.io/badge/Achievement-Pull%20Shark-orange)
+
 
 
 🚀 **A passionate software engineering student** at ALX Africa from Ethiopia.
