@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Nathan Hailu!
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nathanage3)
-
 
 🚀 **A passionate software engineering student** at ALX Africa from Ethiopia.
 
@@ -78,7 +76,7 @@
 
 [![Total Commits](https://github-readme-stats.vercel.app/api?username=Nathanage3&show_icons=true&theme=radical)](https://github.com/Nathanage3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanage3&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff)
+
 
 [![Nathanage3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nathanage3&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff)]
 
@@ -86,7 +84,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nathanage3&theme=dark)
 
 
-
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nathanage3)
 ### Popular repositories
 
 - **[alx-low_level_programming](https://github.com/Nathanage3/alx-low_level_programming.git)**: This repository contains my work as I learn low-level programming and algorithm development, primarily using C
