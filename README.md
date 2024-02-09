@@ -6,6 +6,9 @@
 [![Pull Shark Badge](https://img.shields.io/badge/Achievement-Pull%20Shark-orange)](https://Nathanage3.github.io)
 [![Starstruck Badge](https://img.shields.io/badge/Achievement-Starstruck-yellow)](https://Nathanage3.github.io)
 
+![YOLO Badge](https://path/to/yolo-badge.png)
+
+
 🚀 **A passionate software engineering student** at ALX Africa from Ethiopia.
 
 ---
