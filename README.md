@@ -1,4 +1,7 @@
-### Hi there 👋, I'm Sisay Alemayehu Hailu!
+### Hi there 👋, I'm Nathan Hailu!
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nathanage3)
+
 
 🚀 **A passionate software engineering student** at ALX Africa from Ethiopia.
 
