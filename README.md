@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nathan Hailu!
 
-## Achievements
+#Achievements
 
 ![YOLO Badge](https://img.shields.io/badge/Achievement-YOLO-brightgreen)
 ![Quickdraw Badge](https://img.shields.io/badge/Achievement-Quickdraw-blue)
