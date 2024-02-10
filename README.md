@@ -46,8 +46,8 @@
 🚀 **A passionate software engineering student** at ALX Africa from Ethiopia.
 
 ---
-![Programming](https://github.com/Nathanage3/Nathanage3/assets/118963179/83141999-cb7b-40be-acf4-a9e4d3d11be6)
-
+<!--![Programming](https://github.com/Nathanage3/Nathanage3/assets/118963179/83141999-cb7b-40be-acf4-a9e4d3d11be6)
+-->
 🌱 **I have coding experience in:**:
 <br />
 ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
