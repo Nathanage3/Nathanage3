@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm Nathan Hailu!
-
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nathanage3)
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nathanage3&label=Profile%20views&color=0e75b6&style=flat" alt="Nathanage3" /> </p>
 <br />
 <img align="right" alt="Coding gif" width="400" src="https://data-science-blog.com/en/wp-content/uploads/sites/4/2020/11/happy-coder.gif">
+<br />
 <br />
 
 <h1 align="left">Tools:</h1>
