@@ -43,7 +43,7 @@
 <br />
 
 
-🚀 **A passionate software engineering student** at ALX Africa from Ethiopia.
+🚀 **A passionate junior software engineer**.
 
 ---
 <!--![Programming](https://github.com/Nathanage3/Nathanage3/assets/118963179/83141999-cb7b-40be-acf4-a9e4d3d11be6)
