@@ -180,9 +180,9 @@ User Dashboard: "My Courses" section for users to access their enrolled content.
 
 The backend is built around a clean, well-structured set of RESTful API endpoints.
 
-Endpoint                          Method(s)                Description
+Endpoint             &emsp;             Method(s)         &emsp;       Description
 
-/api/auth/register/              POST                      Handles new user registration.                              
+/api/auth/register/      &emsp;        POST           &emsp;           Handles new user registration.                              
 /api/auth/token/                 POST                      Obtains JWT access and refresh tokens for login.
 /api/auth/token/refresh/         POST                      Refreshes an expired access token.
 /api/courses/                    GET                       Get a list of all courses with filtering and search.
