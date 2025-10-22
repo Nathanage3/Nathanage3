@@ -180,21 +180,21 @@ User Dashboard: "My Courses" section for users to access their enrolled content.
 
 The backend is built around a clean, well-structured set of RESTful API endpoints.
 
-Endpoint&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Method(s)&emsp;&emsp;&emsp;&emsp;Description
+Endpoint&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Method(s)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Description
 
-/api/auth/register/&emsp;&emsp;&emsp;&emsp;POST&emsp;&emsp;&emsp;&emsp;&emsp;Handles new user registration.                              
-/api/auth/token/&emsp;&emsp;&emsp;&emsp;POST&emsp;&emsp;&emsp;&emsp;&emspObtains JWT access and refresh tokens for login.
-/api/auth/token/refresh/&emsp;&emsp;&emsp;POST&emsp;&emsp;&emsp;&emsp;Refreshes an expired access token.
-/api/courses/&emsp;&emsp;&emsp;&emsp;&emsp;GET&emsp;&emsp;&emsp;&emsp;Get a list of all courses with filtering and search.
-/api/courses/<id>/&emsp;&emsp;&emsp;&emsp;GET&emsp;&emsp;&emsp;&emsp;Get detailed information for a single course.
-/api/courses/instructor/&emsp;&emsp;&emsp;GET, POST&emsp;&emsp;&emsp;List or create courses for the authenticated instructor.
-/api/courses/instructor/<id>/&emsp;&emsp;GET, PUT, DELETE&emsp;&emsp;Get, update, or delete a specific course owned by the instructor.
-/api/courses/<id>/reviews/&emsp;&emsp;GET, POST&emsp;&emsp;&emsp;&emsp;Get all reviews for a course or post a new review.
-/api/cart/&emsp;&emsp;&emsp;&emsp;&emsp;GET, POST&emsp;&emsp;&emsp;Get the user's cart or add an item to it.
-/api/cart/remove/&emsp;&emsp;&emsp;&emsp;POST&emsp;&emsp;&emsp;&emsp;Remove an item from the user's cart.
-/api/checkout/&emsp;&emsp;&emsp;&emsp;&emsp;POST&emsp;&emsp;&emsp;Processes the user's cart and initiates the payment flow.
-/api/users/me/&emsp;&emsp;&emsp;&emsp;&emsp;GET, PUT&emsp;&emsp;Get or update the authenticated user's profile.
-/api/users/me/courses/&emsp;&emsp;&emsp;&emsp;GET&emsp;&emsp;Get a list of all courses the user is enrolled in.
+/api/auth/register/&emsp;&emsp;&emsp;&emsp;POST&emsp;&emsp;&emsp;&emsp;&emsp;Handles new user registration.  <br />                         
+/api/auth/token/&emsp;&emsp;&emsp;&emsp;POST&emsp;&emsp;&emsp;&emsp;&emspObtains JWT access and refresh tokens for login.  <br />   
+/api/auth/token/refresh/&emsp;&emsp;&emsp;POST&emsp;&emsp;&emsp;&emsp;Refreshes an expired access token.  <br />   
+/api/courses/&emsp;&emsp;&emsp;&emsp;&emsp;GET&emsp;&emsp;&emsp;&emsp;Get a list of all courses with filtering and search.  <br />   
+/api/courses/<id>/&emsp;&emsp;&emsp;&emsp;GET&emsp;&emsp;&emsp;&emsp;Get detailed information for a single course.  <br />    
+/api/courses/instructor/&emsp;&emsp;&emsp;GET, POST&emsp;&emsp;&emsp;List or create courses for the authenticated instructor.  <br />   
+/api/courses/instructor/<id>/&emsp;&emsp;GET, PUT, DELETE&emsp;&emsp;Get, update, or delete a specific course owned by the instructor.  <br />   
+/api/courses/<id>/reviews/&emsp;&emsp;GET, POST&emsp;&emsp;&emsp;&emsp;Get all reviews for a course or post a new review.  <br />   
+/api/cart/&emsp;&emsp;&emsp;&emsp;&emsp;GET, POST&emsp;&emsp;&emsp;Get the user's cart or add an item to it.  <br />   
+/api/cart/remove/&emsp;&emsp;&emsp;&emsp;POST&emsp;&emsp;&emsp;&emsp;Remove an item from the user's cart.  <br />   
+/api/checkout/&emsp;&emsp;&emsp;&emsp;&emsp;POST&emsp;&emsp;&emsp;Processes the user's cart and initiates the payment flow.  <br />   
+/api/users/me/&emsp;&emsp;&emsp;&emsp;&emsp;GET, PUT&emsp;&emsp;Get or update the authenticated user's profile.  <br />   
+/api/users/me/courses/&emsp;&emsp;&emsp;&emsp;GET&emsp;&emsp;Get a list of all courses the user is enrolled in.  <br />   
 
 Ratings & Reviews: Authenticated users can leave reviews and ratings on courses they are enrolled in.
 
