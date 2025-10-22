@@ -202,13 +202,13 @@ Ratings & Reviews: Authenticated users can leave reviews and ratings on courses 
 
 To run the backend server locally, follow these steps:
 
-1. # Clone the repository:
+1. Clone the repository:
 
 git clone [https://github.com/](https://github.com/)[Nathanage3/E-commerce.git
 cd E-commerce
 
 
-2. # Create and activate a virtual environment:
+2. Create and activate a virtual environment:
 
 # On macOS/Linux
 python3 -m venv venv
@@ -219,12 +219,12 @@ python -m venv venv
 .\venv\Scripts\activate
 
 
-3. # Install dependencies:
+3. Install dependencies:
 
 pip install -r requirements.txt
 
 
-4. # Set up environment variables:
+4. Set up environment variables:
 
 Create a .env file in the root directory by copying the example file.
 
@@ -233,29 +233,29 @@ cp .env.example .env
 
 Open the .env file and fill in the required variables (like SECRET_KEY). You can generate a new Django secret key here.
 
-5. # Run database migrations:
+5. Run database migrations:
 
 python manage.py migrate
 
 
-6. # Run the development server:
+6. Run the development server:
 
 python manage.py runserver
 
 
 The backend API will now be running at http://127.0.0.1:8000.
 
-7. # Set up the Frontend:
+7. Set up the Frontend:
 
 Clone the frontend repository and follow its README.md file for installation.
 
 Ensure the frontend's API (Axios) base URL is pointed at http://127.0.0.1:8000.
 
-## 🤝 Collaboration
+**🤝 Collaboration**
 
 This project was a collaborative effort, developed using a feature-branch Git workflow. This decoupled approach allowed for parallel development on the backend API and the frontend client, with clear API contracts ensuring smooth integration.
 
-# 👤 Author
+ 👤 Author
 Sisay Alemayehu
 
 Upwork Profile: https://www.upwork.com/freelancers/~015945afc425acd0da
@@ -263,6 +263,10 @@ Upwork Profile: https://www.upwork.com/freelancers/~015945afc425acd0da
 LinkedIn: https://www.linkedin.com/in/nathan-hailu/
 
 GitHub: https://github.com/Nathanage3
+
+<br />
+
+
 
 - **[alx-higher_level_programming](https://github.com/Nathanage3/alx-higher_level_programming.git)**: Embark on a journey into the realm of High-Level Programming with this dynamic repository. Immerse yourself in a collection of meticulously crafted Python and JavaScript functions, packages, and a symphony of technologies. Witness the orchestration of SQLAlchemy as it weaves through the creation of tables and orchestrates seamless database interactions. Explore the intricacies of classes, JSON files, APIs, Fabric, Flask, and beyond. Unleash the power of code and creativity – where innovation meets function in the High-Level Programming repository.
 - **[alx-system_engineering_devops](https://github.com/Nathanage3/alx-system_engineering_devops.git)**: Welcome to the Engineering DevOps repository – your go-to resource for automating tool and software installations using powerful Bash scripts. Elevate your development experience with our customizable scripts designed for installing Python 3, Nginx, Apache, Node.js, Fabric, Flask, Django, and more. Effortlessly streamline your workflow, and stay up-to-date with our regularly maintained and updated collection. Simplify your setup – dive into the world of seamless installations with Engineering DevOps!
