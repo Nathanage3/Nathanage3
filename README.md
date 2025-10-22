@@ -180,15 +180,15 @@ User Dashboard: "My Courses" section for users to access their enrolled content.
 
 The backend is built around a clean, well-structured set of RESTful API endpoints.
 
-Endpoint             &emsp;  &emsp;           Method(s)         &emsp;&emsp;       Description
+Endpoint&emsp;&emsp;&emsp;&emsp;Method(s)&emsp;&emsp;&emsp;&emsp;Description
 
-/api/auth/register/      &emsp; &emsp;        POST         &emsp;  &emsp;           Handles new user registration.                              
-/api/auth/token/           &emsp;&emsp;      POST      &emsp;&emsp;                Obtains JWT access and refresh tokens for login.
-/api/auth/token/refresh/         POST                      Refreshes an expired access token.
-/api/courses/                    GET                       Get a list of all courses with filtering and search.
-/api/courses/<id>/               GET                       Get detailed information for a single course.
-/api/courses/instructor/         GET, POST                 List or create courses for the authenticated instructor.
-/api/courses/instructor/<id>/    GET, PUT, DELETE          Get, update, or delete a specific course owned by the instructor.
+/api/auth/register/&emsp;&emsp;&emsp;&emsp;POST&emsp;&emsp;&emsp;&emsp;Handles new user registration.                              
+/api/auth/token/&emsp;&emsp;&emsp;&emsp;POST&emsp;&emsp;&emsp;&emsp;Obtains JWT access and refresh tokens for login.
+/api/auth/token/refresh/&emsp;&emsp;&emsp;&emsp;POST&emsp;&emsp;&emsp;&emsp;Refreshes an expired access token.
+/api/courses/&emsp;&emsp;&emsp;&emsp;GET&emsp;&emsp;&emsp;&emsp;Get a list of all courses with filtering and search.
+/api/courses/<id>/&emsp;&emsp;&emsp;&emsp;GET&emsp;&emsp;&emsp;&emsp;Get detailed information for a single course.
+/api/courses/instructor/&emsp;&emsp;&emsp;&emsp;GET, POS&emsp;&emsp;&emsp;&emsp;List or create courses for the authenticated instructor.
+/api/courses/instructor/<id>/&emsp;&emsp;&emsp;&emsp;GET, PUT, DELETE&emsp;&emsp;&emsp;&emsp;Get, update, or delete a specific course owned by the instructor.
 /api/courses/<id>/reviews/       GET, POST                 Get all reviews for a course or post a new review.
 /api/cart/                       GET, POST                 Get the user's cart or add an item to it.
 /api/cart/remove/                POST                      Remove an item from the user's cart.
